@@ -1,4 +1,3 @@
-require"reverse_each_word_spec.rb"
 def reverse_each_word(sentence)
   split_str = sentence.split(" ")
   reverse = []
